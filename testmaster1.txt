@@ -1,1 +1,2 @@
 This is testing of testmaster3 file
+added one more line in newbranch3
